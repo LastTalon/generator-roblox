@@ -1,0 +1,22 @@
+{
+	"compilerOptions": {
+		/* Projects */
+		"composite": true,
+		"tsBuildInfoFile": "generators/tsconfig.tsbuildinfo",
+
+		/* Language and Environment */
+		"target": "ESNext",
+
+		/* Modules */
+		"module": "NodeNext",
+		"rootDir": "src",
+		"baseUrl": "src",
+		"resolveJsonModule": true,
+
+		/* Emit */
+		"outDir": "generators",
+
+		/* Type Checking */
+		"strict": true
+	}
+}
